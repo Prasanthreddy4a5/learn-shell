@@ -9,3 +9,5 @@ function greet() {
 # Call the function and pass a name as an argument
 greet "Alice"
 greet "Bob"
+greet "Giri"
+
